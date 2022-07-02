@@ -7,4 +7,4 @@
 - ⚡ Fun fact: When I'm not coding, I'm either reading or listening to music
 
 
-(https://github-readme-stats.vercel.app/api?Ayo-funmi&theme=radical)
+(https://github-readme-stats.vercel.app/api?Ayo-Funmi&theme=radical)
