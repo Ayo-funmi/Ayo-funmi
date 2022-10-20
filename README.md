@@ -1,6 +1,6 @@
 ### Hi there, I'm Ayofunmi 👋
 
-- 🌱 I’m currently learning Flutter Development and Dart
+- 🌱 Frontnd Developer
 - 👯 I’m open to opportunities
 - 💬 Ask me about what you'll like to know about me
 - 😄 Pronouns: She/Her
