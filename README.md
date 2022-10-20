@@ -1,6 +1,6 @@
 ### Hi there, I'm Ayofunmi 👋
 
-- 🌱 Frontnd Developer
+- 🌱 Frontend Developer
 - 👯 I’m open to opportunities
 - 💬 Ask me about what you'll like to know about me
 - 😄 Pronouns: She/Her
